@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88759620617",
+    "project_id": "marega-bb43b",
+    "storage_bucket": "marega-bb43b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88759620617:android:06024f1149e4d48ace14d8",
+        "android_client_info": {
+          "package_name": "com.example.marega"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAlWYlv1peVcv8b23fpUftRLEIzMWHqnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
